@@ -1,6 +1,7 @@
 feedparser
 beautifulsoup4
 langchain-groq
-langchain
+langchain_classic
+langchain_core
 requests
 python-dotenv
