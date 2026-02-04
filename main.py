@@ -10,8 +10,8 @@ from langchain_groq import ChatGroq
 from langchain_core.tools import tool
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 
-from dotenv import load_dotenv
-load_dotenv()
+#from dotenv import load_dotenv
+#load_dotenv()
 
 # Environment Variables
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
